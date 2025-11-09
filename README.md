@@ -4,7 +4,7 @@ Image Gallery app is built with the latest technology stack of React, Tailwind C
 
 ## Demo Link: 🔗
 
-Preview Live Site ➡️ [here](/https://image-gallery-search-anything.vercel.app/)
+Preview Live Site ➡️ [here](https://image-gallery-search-anything.vercel.app/)
 
 ### Table of contents
 * [Features and Technologies](#features-and-technologies)
