@@ -4,7 +4,7 @@ Image Gallery app is built with the latest technology stack of React, Tailwind C
 
 ## Demo Link: 🔗
 
-Preview Live Site ➡️ [here](https://nsafarova.github.io/image-gallery-react-app/)
+Preview Live Site ➡️ [here](/)
 
 ### Table of contents
 * [Features and Technologies](#features-and-technologies)
@@ -37,7 +37,7 @@ npm start
 
 ### Inspiration
 
-This app is ispired from [Unsplash](https://unsplash.com/).
+This app is inspired from [Unsplash](https://unsplash.com/).
 
 
 © 2025 Designed and coded by Mahaveer Mandloi 💜
